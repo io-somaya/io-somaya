@@ -45,7 +45,7 @@
 </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=io-somaya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=io-somaya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&1)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=io-somaya&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=io-somaya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
